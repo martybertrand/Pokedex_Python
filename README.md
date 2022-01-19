@@ -2,7 +2,7 @@
 
 Documentation de lancement :
 
-1. Télécharger le Zip du dossier.
+1. Télécharger le Zip du dossier : https://github.com/martybertrand/Pokedex_Python.git
 2. Ouvrir le dossier sur un IDE (VS Code...).
 3. Installer un environnement python
   
